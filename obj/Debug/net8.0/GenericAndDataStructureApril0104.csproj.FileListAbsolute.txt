@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\bin\Debug\net8.0\GenericAndDataStructureApril0104.exe
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\bin\Debug\net8.0\GenericAndDataStructureApril0104.deps.json
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\bin\Debug\net8.0\GenericAndDataStructureApril0104.runtimeconfig.json
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\bin\Debug\net8.0\GenericAndDataStructureApril0104.dll
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\bin\Debug\net8.0\GenericAndDataStructureApril0104.pdb
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\GenericAndDataStructureApril0104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\GenericAndDataStructureApril0104.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\GenericAndDataStructureApril0104.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\GenericAndDataStructureApril0104.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\GenericAndDataStructureApril0104.sourcelink.json
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\GenericAndDataStructureApril0104.dll
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\refint\GenericAndDataStructureApril0104.dll
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\GenericAndDataStructureApril0104.pdb
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\GenericAndDataStructureApril0104.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TodaysAssignment30th\GenericAssignment0104\obj\Debug\net8.0\ref\GenericAndDataStructureApril0104.dll
